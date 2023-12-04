@@ -20818,7 +20818,7 @@ return A.fr(A.a([A.Qz(),new A.d7(new A.b1(12,12,12,12),A.kh(A.a([new A.e_(B.fe,s
 agp(a){var s=null,r=A.bW(s,s,new A.y(4286939548),s,s,s,s,s,"ProductSans",s,s,10,s,s,s,s,1.5,!0,s,1,s,s,s,s,s,s)
 return A.eg("\xa9 2023 CODEZ . ALL RIGHTS RESERVED.",r.Ic(A.bg(a,s,t.w).w.a.a<768?8:10))},
 agt(){var s=null
-return A.kh(A.a([A.et(s,A.Ca("resources/icons/linkedin.png",20,20),B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7b(),s,s,s),A.bt(s,s,16),A.et(s,A.Ca("resources/icons/youtube.png",20,20),B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7c(),s,s,s),A.bt(s,s,16),A.et(s,A.Ca("resources/icons/instagram.png",20,20),B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7d(),s,s,s),A.bt(s,s,16),A.et(s,A.Ca("resources/icons/github.png",20,20),B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7e(),s,s,s)],t.E),B.am,B.pw,B.ah)},
+return A.kh(A.a([A.et(s,A.Ca("resources/icons/linkedin.png",20,20),B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7b(),s,s,s),A.bt(s,s,16),A.et(s,A.Ca("resources/icons/icons8-youtube-480.png",20,20),B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7c(),s,s,s),A.bt(s,s,16),A.et(s,A.Ca("resources/icons/instagram.png",20,20),B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7d(),s,s,s),A.bt(s,s,16),A.et(s,A.Ca("resources/icons/github.png",20,20),B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7e(),s,s,s)],t.E),B.am,B.pw,B.ah)},
 aar(a,b){var s=null,r=A.a([],t.Zt),q=$.ac,p=t.LR,o=t.zh,n=A.uc(B.c1),m=A.a([],t.wi),l=$.aD(),k=$.ac
 return new A.I2(a,new A.a33(a),new A.a34(),!1,!0,!1,r,A.aJ(t.kj),new A.bn(s,t.Ts),new A.bn(s,t.A),new A.Dh(),s,0,new A.bh(new A.ah(q,p),o),n,m,new A.f5(b,s),new A.ei(s,l),new A.bh(new A.ah(k,p),o))},
 a84:function a84(){},
