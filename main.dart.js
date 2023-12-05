@@ -67237,7 +67237,7 @@ $S:0}
 A.a9j.prototype={
 $0(){var s=window
 s.toString
-B.dw.u9(s,"https://www.youtube.com/@codewithzee","Youtube")},
+B.dw.u9(s,"https://www.youtube.com/@Code_With_Zee","Youtube")},
 $S:0}
 A.a9k.prototype={
 $0(){var s=window
