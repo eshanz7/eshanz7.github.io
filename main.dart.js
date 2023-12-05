@@ -67295,7 +67295,7 @@ A.UW.prototype={
 $0(){$.PH().$1$0(t.YR).a.gbd().AB("/projects",t.X)},
 $S:0}
 A.UX.prototype={
-$0(){A.a9P(A.e3("https://drive.google.com/file/d/15rCoCg-hpMTI0XzmfaXE5xI4rqcyI5JI/view?usp=drive_link",0,null))},
+$0(){A.a9P(A.e3("https://drive.google.com/file/d/1jK58I8N77nMB4Z97hnTx0kOL5_pls8VU/",0,null))},
 $S:0}
 A.v1.prototype={
 am(){return new A.LT(B.m)}}
